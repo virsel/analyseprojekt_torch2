@@ -1,0 +1,8 @@
+
+tensor_logs
+__pycache__
+output
+output_archive
+
+.vscode
+.history
